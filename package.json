@@ -1,0 +1,22 @@
+{
+  "name": "jenkins_docker_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha calc_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-omasa-kbc/jenkins_docker_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y-omasa-kbc/jenkins_docker_node/issues"
+  },
+  "homepage": "https://github.com/y-omasa-kbc/jenkins_docker_node#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
