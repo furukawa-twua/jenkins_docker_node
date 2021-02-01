@@ -13,8 +13,8 @@ describe('myfuncs', function() {
                 });
         });
         describe('cube', function() {
-                it ('cube(3) returns 9', function() {
-                        assert.equal(myfuncs.cube(3), 27);
+                it ('cube(2) returns 8', function() {
+                        assert.equal(myfuncs.cube(2), 8);
                 });
         });
 });
